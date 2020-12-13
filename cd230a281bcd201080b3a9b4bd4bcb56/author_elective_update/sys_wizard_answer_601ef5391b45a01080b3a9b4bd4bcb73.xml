@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Mob Incident</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Mob Incident</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">6ff033c4c923101091f9f06464832717</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-13 16:03:43</sys_created_on>
+        <sys_id>601ef5391b45a01080b3a9b4bd4bcb73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mob Incident</sys_name>
+        <sys_package display_value="AT&amp;T Ticketing Spoke" source="x_551163_at_t_tick">cd230a281bcd201080b3a9b4bd4bcb56</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AT&amp;T Ticketing Spoke">cd230a281bcd201080b3a9b4bd4bcb56</sys_scope>
+        <sys_update_name>sys_wizard_answer_601ef5391b45a01080b3a9b4bd4bcb73</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-13 16:03:43</sys_updated_on>
+        <table/>
+        <target_url>x_551163_at_t_tick_mob_incident.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AT&amp;T Ticketing Spoke">cd230a281bcd201080b3a9b4bd4bcb56</application>
+        <file_path/>
+        <instance_id>922df938db08738052cec59705961918</instance_id>
+        <instance_name>dev74559</instance_name>
+        <name>sys_wizard_answer_601ef5391b45a01080b3a9b4bd4bcb73</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Mob Incident</answer><button_label/><dependent_value/><element/><name>Mob Incident</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">6ff033c4c923101091f9f06464832717</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-13 16:03:43</sys_created_on><sys_id>601ef5391b45a01080b3a9b4bd4bcb73</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Mob Incident</sys_name><sys_package display_value="AT&amp;T Ticketing Spoke" source="x_551163_at_t_tick">cd230a281bcd201080b3a9b4bd4bcb56</sys_package><sys_policy/><sys_scope display_value="AT&amp;T Ticketing Spoke">cd230a281bcd201080b3a9b4bd4bcb56</sys_scope><sys_update_name>sys_wizard_answer_601ef5391b45a01080b3a9b4bd4bcb73</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-13 16:03:43</sys_updated_on><table/><target_url>x_551163_at_t_tick_mob_incident.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>314228789</payload_hash>
+        <record_name>Mob Incident</record_name>
+        <reverted_from/>
+        <source>aa8641902f10201088ccd2172799b6dc</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-11-01 13:23:07</sys_created_on>
+        <sys_id>7e2adabd1b85a01080b3a9b4bd4bcb26</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17583f9ca780000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>3e2adabda985a010fe887c19a64f3926</update_guid>
+        <update_guid_history>3e2adabda985a010fe887c19a64f3926:314228789</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-13 18:06:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>0d51aa9172a14b4481422506435d2490</sys_id>
+        <sys_metadata>601ef5391b45a01080b3a9b4bd4bcb73</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mob Incident</sys_name>
+        <sys_package display_value="AT&amp;T Ticketing Spoke" source="x_551163_at_t_tick">cd230a281bcd201080b3a9b4bd4bcb56</sys_package>
+        <sys_parent display_value="Task">6ff033c4c923101091f9f06464832717</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="AT&amp;T Ticketing Spoke">cd230a281bcd201080b3a9b4bd4bcb56</sys_scope>
+        <sys_scope_delete display_value="">0a831ea882154940b0292609261f79c1</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_601ef5391b45a01080b3a9b4bd4bcb73</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_601ef5391b45a01080b3a9b4bd4bcb73">7e2adabd1b85a01080b3a9b4bd4bcb26</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-13 18:06:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-13 16:03:43</sys_created_on>
+        <sys_id>941ef5391b45a01080b3a9b4bd4bcb60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_551163_at_t_tick_mob_incident.x_551163_at_t_tick.mob_incident_user</sys_name>
+        <sys_package display_value="AT&amp;T Ticketing Spoke" source="x_551163_at_t_tick">cd230a281bcd201080b3a9b4bd4bcb56</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AT&amp;T Ticketing Spoke">cd230a281bcd201080b3a9b4bd4bcb56</sys_scope>
+        <sys_security_acl display_value="x_551163_at_t_tick_mob_incident">181ef5391b45a01080b3a9b4bd4bcb5d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_941ef5391b45a01080b3a9b4bd4bcb60</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-13 16:03:43</sys_updated_on>
+        <sys_user_role display_value="x_551163_at_t_tick.mob_incident_user" name="x_551163_at_t_tick.mob_incident_user">441e75391b45a01080b3a9b4bd4bcb2b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AT&amp;T Ticketing Spoke">cd230a281bcd201080b3a9b4bd4bcb56</application>
+        <file_path/>
+        <instance_id>922df938db08738052cec59705961918</instance_id>
+        <instance_name>dev74559</instance_name>
+        <name>sys_security_acl_role_941ef5391b45a01080b3a9b4bd4bcb60</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-13 16:03:43</sys_created_on><sys_id>941ef5391b45a01080b3a9b4bd4bcb60</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_551163_at_t_tick_mob_incident.x_551163_at_t_tick.mob_incident_user</sys_name><sys_package display_value="AT&amp;T Ticketing Spoke" source="x_551163_at_t_tick">cd230a281bcd201080b3a9b4bd4bcb56</sys_package><sys_policy/><sys_scope display_value="AT&amp;T Ticketing Spoke">cd230a281bcd201080b3a9b4bd4bcb56</sys_scope><sys_security_acl display_value="x_551163_at_t_tick_mob_incident">181ef5391b45a01080b3a9b4bd4bcb5d</sys_security_acl><sys_update_name>sys_security_acl_role_941ef5391b45a01080b3a9b4bd4bcb60</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-13 16:03:43</sys_updated_on><sys_user_role display_value="x_551163_at_t_tick.mob_incident_user" name="x_551163_at_t_tick.mob_incident_user">441e75391b45a01080b3a9b4bd4bcb2b</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-863128882</payload_hash>
+        <record_name>x_551163_at_t_tick_mob_incident.x_551163_at_t_tick.mob_incident_user</record_name>
+        <reverted_from/>
+        <source>2f7b9b3c1bcd601080b3a9b4bd4bcb7c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-13 16:03:43</sys_created_on>
+        <sys_id>dc1ef5391b45a01080b3a9b4bd4bcb62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1765cd7ec200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-13 16:03:43</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>181ef539ad45a010e188853a27997062</update_guid>
+        <update_guid_history>181ef539ad45a010e188853a27997062:-863128882</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_551163_at_t_tick_mob_incident.x_551163_at_t_tick.mob_incident_user">522a9abd1b85a01080b3a9b4bd4bcb6d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-13 18:06:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>1cb6fe1c7048467d97e95901071ec9f1</sys_id>
+        <sys_metadata>941ef5391b45a01080b3a9b4bd4bcb60</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_551163_at_t_tick_mob_incident.x_551163_at_t_tick.mob_incident_user</sys_name>
+        <sys_package display_value="AT&amp;T Ticketing Spoke" source="x_551163_at_t_tick">cd230a281bcd201080b3a9b4bd4bcb56</sys_package>
+        <sys_parent display_value="">181ef5391b45a01080b3a9b4bd4bcb5d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="AT&amp;T Ticketing Spoke">cd230a281bcd201080b3a9b4bd4bcb56</sys_scope>
+        <sys_scope_delete display_value="">0a831ea882154940b0292609261f79c1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_941ef5391b45a01080b3a9b4bd4bcb60</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_941ef5391b45a01080b3a9b4bd4bcb60">dc1ef5391b45a01080b3a9b4bd4bcb62</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-13 18:06:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

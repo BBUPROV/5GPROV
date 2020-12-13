@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="DELETE">
+        <category>homepages</category>
+        <client_script/>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_551163_at_t_tick_AT&amp;T Ticketing.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+ATT Ticketing Application
+</j:jelly>]]></html>
+        <name>AT&amp;T Ticketing</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-13 16:30:13</sys_created_on>
+        <sys_id>67e3c67d1b45a01080b3a9b4bd4bcb59</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AT&amp;T Ticketing</sys_name>
+        <sys_package display_value="AT&amp;T Ticketing Spoke" source="x_551163_at_t_tick">cd230a281bcd201080b3a9b4bd4bcb56</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AT&amp;T Ticketing Spoke">cd230a281bcd201080b3a9b4bd4bcb56</sys_scope>
+        <sys_update_name>sys_ui_page_67e3c67d1b45a01080b3a9b4bd4bcb59</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-13 16:35:45</sys_updated_on>
+    </sys_ui_page>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AT&amp;T Ticketing Spoke">cd230a281bcd201080b3a9b4bd4bcb56</application>
+        <file_path/>
+        <instance_id>922df938db08738052cec59705961918</instance_id>
+        <instance_name>dev74559</instance_name>
+        <name>sys_ui_page_67e3c67d1b45a01080b3a9b4bd4bcb59</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_page"&gt;&lt;sys_ui_page action="INSERT_OR_UPDATE"&gt;&lt;category&gt;homepages&lt;/category&gt;&lt;client_script/&gt;&lt;description/&gt;&lt;direct&gt;false&lt;/direct&gt;&lt;endpoint&gt;x_551163_at_t_tick_AT&amp;amp;T Ticketing.do&lt;/endpoint&gt;&lt;html&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="utf-8" ?&gt;
+&lt;j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null"&gt;
+ATT Ticketing Application
+&lt;/j:jelly&gt;]]&gt;&lt;/html&gt;&lt;name&gt;AT&amp;amp;T Ticketing&lt;/name&gt;&lt;processing_script/&gt;&lt;sys_class_name&gt;sys_ui_page&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-12-13 16:30:13&lt;/sys_created_on&gt;&lt;sys_id&gt;67e3c67d1b45a01080b3a9b4bd4bcb59&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;AT&amp;amp;T Ticketing&lt;/sys_name&gt;&lt;sys_package display_value="AT&amp;amp;T Ticketing Spoke" source="x_551163_at_t_tick"&gt;cd230a281bcd201080b3a9b4bd4bcb56&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="AT&amp;amp;T Ticketing Spoke"&gt;cd230a281bcd201080b3a9b4bd4bcb56&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_page_67e3c67d1b45a01080b3a9b4bd4bcb59&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-12-13 16:35:45&lt;/sys_updated_on&gt;&lt;/sys_ui_page&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-442829006</payload_hash>
+        <record_name>AT&amp;T Ticketing</record_name>
+        <reverted_from/>
+        <source>2f7b9b3c1bcd601080b3a9b4bd4bcb7c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-13 16:35:45</sys_created_on>
+        <sys_id>2965867d1b45a01080b3a9b4bd4bcb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1765cf53fec0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-13 16:35:45</sys_updated_on>
+        <type>UI Page</type>
+        <update_guid>6165867d1745a010e34d16ba1794343a</update_guid>
+        <update_guid_history>6165867d1745a010e34d16ba1794343a:-442829006,a824c27d3745a010ceb402b22e537650:-1473641141</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-13 16:45:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_page">sys_ui_page</sys_db_object>
+        <sys_id>12ceb5aa3e554a4282e82a46d9239c84</sys_id>
+        <sys_metadata>67e3c67d1b45a01080b3a9b4bd4bcb59</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AT&amp;T Ticketing</sys_name>
+        <sys_package display_value="AT&amp;T Ticketing Spoke" source="x_551163_at_t_tick">cd230a281bcd201080b3a9b4bd4bcb56</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AT&amp;T Ticketing Spoke">cd230a281bcd201080b3a9b4bd4bcb56</sys_scope>
+        <sys_scope_delete display_value="">0a831ea882154940b0292609261f79c1</sys_scope_delete>
+        <sys_update_name>sys_ui_page_67e3c67d1b45a01080b3a9b4bd4bcb59</sys_update_name>
+        <sys_update_version display_value="sys_ui_page_67e3c67d1b45a01080b3a9b4bd4bcb59">2965867d1b45a01080b3a9b4bd4bcb3a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-13 16:45:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

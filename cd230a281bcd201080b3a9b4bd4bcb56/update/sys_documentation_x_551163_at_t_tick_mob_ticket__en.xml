@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Mob Ticket" language="en" table="x_551163_at_t_tick_mob_ticket">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Mob Ticket</label>
+            <language>en</language>
+            <name>x_551163_at_t_tick_mob_ticket</name>
+            <plural>Mob Tickets</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-12-13 18:07:49</sys_created_on>
+            <sys_id>1a7a12fd1b85a01080b3a9b4bd4bcbda</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Mob Ticket</sys_name>
+            <sys_package display_value="AT&amp;T Ticketing Spoke" source="x_551163_at_t_tick">cd230a281bcd201080b3a9b4bd4bcb56</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AT&amp;T Ticketing Spoke">cd230a281bcd201080b3a9b4bd4bcb56</sys_scope>
+            <sys_update_name>sys_documentation_x_551163_at_t_tick_mob_ticket__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-12-13 18:07:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
